@@ -1,6 +1,6 @@
-*Innovative Matched Filter creation for ECG heart rate detection* 
+**Innovative Matched Filter creation for ECG heart rate detection** 
 
-*Motivation*
+**Motivation**
 
 The heart rate analysis from an ECG is crucial in assessing the health condition of an individual. But the measured ECG tend to have noises such as the 50Hz interference and the DC. These noises make the detection of peaks inaccurate which in turn make the detection of heartrate inaccurate. Thus, removing the noises from the ECG is pertinent for the proper analysis of the ECG.
 
