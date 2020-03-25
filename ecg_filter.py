@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+Created by Shivoh Chirayil Nandakumar 
 """
 import numpy as np
 import matplotlib.pyplot as plt
